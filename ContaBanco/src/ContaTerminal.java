@@ -23,7 +23,7 @@ public class ContaTerminal {
      System.out.println(" Olá " + nome + ", obrigado por criar uma conta em nosso banco, sua Agência é " + agencia + " conta " + numero + " e seu saldo " + saldo + " já está disponivel para saque. ");
 
     
-        scanner.close(); // Não foi visto em aula, mas pesquisando achei esse comando que garante que o Scanner será fechado não ira consumir recursos.
+        scanner.close(); // Não foi visto em aula, mas pesquisando achei esse comando que garante que o Scanner será fechado e não irá consumir recursos.
 
     
 }

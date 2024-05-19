@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "controle-de-fluxo_5e9dbc43"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "controle-de-fluxo_5e9dbc43"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue2",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue2",
+            "projectName": "controle-de-fluxo_5e9dbc43"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "controle-de-fluxo_5e9dbc43"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForEach",
+            "request": "launch",
+            "mainClass": "ExemploForEach",
+            "projectName": "controle-de-fluxo_5e9dbc43"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "controle-de-fluxo_5e9dbc43"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "controle-de-fluxo_5e9dbc43"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora2",
+            "request": "launch",
+            "mainClass": "PlanoOperadora2",
+            "projectName": "controle-de-fluxo_5e9dbc43"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora",
+            "projectName": "controle-de-fluxo_5e9dbc43"
+        },
+        {
+            "type": "java",
             "name": "SistemaMedida2",
             "request": "launch",
             "mainClass": "SistemaMedida2",

@@ -1,4 +1,5 @@
-mport java.util.Scanner;
+import java.util.Scanner;
+
 
 public class VerificadorElegibilidadeConta {
 
@@ -16,11 +17,7 @@ public class VerificadorElegibilidadeConta {
         else {
           System.out.println("Voce nao esta elegivel para criar uma conta bancaria.");
         }
-        // TODO: Verificar se a idade do cliente
-        // TODO: Se >= 18, imprimir "Voce esta elegivel para criar uma conta bancaria."
-        // TODO: Caso contrário, imprimir "Voce nao esta elegivel para criar uma conta bancaria."
-
-        // Fechar o scanner para evitar vazamentos de recursos
+       
         scanner.close();
     }
 }

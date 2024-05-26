@@ -8,7 +8,7 @@ import aplicativos.ReprodutorMusical;
 
 public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
     private String modelo;
-    public static void main(String[] args)       
+    public static void main(String[] args)     
 
     public Iphone(String modelo) {
         this.modelo = modelo;

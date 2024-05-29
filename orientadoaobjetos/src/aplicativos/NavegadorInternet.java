@@ -6,3 +6,4 @@ public interface NavegadorInternet {
     void atualizarPagina();
 }
 
+

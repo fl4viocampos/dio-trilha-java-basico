@@ -1,16 +1,9 @@
 package iphone;
 
-
-import aplicativos.AparelhoTelefonico;
-import aplicativos.NavegadorInternet;
-import aplicativos.ReprodutorMusical;
-
-
-public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
+public class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
     private String modelo;
-    public static void main(String[] args)     
 
-    public Iphone(String modelo) {
+    public iPhone(String modelo) {
         this.modelo = modelo;
     }
 
@@ -71,3 +64,4 @@ public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorI
         this.modelo = modelo;
     }
 }
+
